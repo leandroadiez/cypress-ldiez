@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cy:run": "cypress open",
+    "cy:run:chrome": "cypress open -b chrome",
+    "cy:run:firefox": "cypress open -b firefox",
+    "cy:run:edge": "cypress open -b edge"
+  }
+}
