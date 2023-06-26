@@ -1,0 +1,52 @@
+{
+    "Sauce Labs Backpack":
+    {
+        "title": "Sauce Labs Backpack",
+        "image": "/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg",
+        "description" : "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.", 
+        "price" : "$29.99",
+        "cartBtn" : "#add-to-cart-sauce-labs-backpack",
+        "removeBtn" : "#remove-sauce-labs-backpack"
+    },
+    "Sauce Labs Bike Light":
+    {
+        "title": "Sauce Labs Bike Light",
+        "image": "image",
+        "description" : "secret_sauce", 
+        "price" : "00.00",
+        "cartButton" : "-"
+    },
+    "Sauce Labs Bolt T-Shirt":
+    {
+        "title": "Sauce Labs Bolt T-Shirt",
+        "image": "image",
+        "description" : "secret_sauce", 
+        "price" : "00.00",
+        "cartButton" : "-"
+    },
+    "Sauce Labs Fleece Jacket":
+    {
+        "title": "Sauce Labs Fleece Jacket",
+        "image": "image",
+        "description" : "secret_sauce", 
+        "price" : "00.00",
+        "cartButton" : "-"
+    },
+    "Sauce Labs Onesie":
+    {
+        "title": "Sauce Labs Onesie",
+        "image": "image",
+        "description" : "secret_sauce", 
+        "price" : "00.00",
+        "cartButton" : "-"
+    },
+    "Test.allTheThings() T-Shirt (Red)":
+    {
+        "title": "Test.allTheThings() T-Shirt (Red)",
+        "image": "image",
+        "description" : "secret_sauce", 
+        "price" : "00.00",
+        "cartButton" : "-"
+    }
+}
+
