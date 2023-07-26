@@ -1,5 +1,6 @@
 class HomePage {
     constructor() {
+        this.url = 'https://www.saucedemo.com/inventory.html'
         this.sortDropdown = '[data-test="product_sort_container"]'
         this.productsTitle = 'Products'
         this.productTitle = '.inventory_item_name'
